@@ -1,2 +1,0 @@
-# DiscordImages
-pls ignored
